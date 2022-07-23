@@ -1,0 +1,19 @@
+.navbarContainer {
+  height: 50px;
+  background-color: lightskyblue;
+  display: flex;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+
+.navbarLink {
+  margin-left: 20px;
+  cursor: pointer;
+}

@@ -1,0 +1,83 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ahmed",
+      "surname": "Belkhiria",
+      "email": "ahmed@gmail.com",
+      "password": "ahmed",
+      "favorites": []
+    },
+    {
+      "id": 2,
+      "name": "Skander",
+      "surname": "Chtioui",
+      "email": "skander@gmail.com",
+      "password": "skander",
+      "favorites": []
+    },
+    {
+      "id": 3,
+      "name": "Olfa",
+      "surname": "Habchi",
+      "email": "olfa@gmail.com",
+      "password": "olfa",
+      "favorites": []
+    },
+    {
+      "name": "Ahmed",
+      "surname": "Balha",
+      "email": "AB@gmail.com",
+      "password": "Ahmed",
+      "id": 4
+    },
+    {
+      "name": "Ahmed",
+      "surname": "Balha",
+      "email": "AB@gmail.com",
+      "password": "Ahmed",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 2,
+      "name": "Golden Ring",
+      "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse eaque iste rem id officia. Quae fuga quo qui impedit omnis.",
+      "path": "golden_ring.jpg",
+      "price": "30",
+      "quantity": "100",
+      "category": "rings"
+    },
+    {
+      "id": 3,
+      "name": "Golden Earrings",
+      "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse eaque iste rem id officia. Quae fuga quo qui impedit omnis.",
+      "path": "golden_earrings.jpg",
+      "price": "300",
+      "quantity": "100",
+      "category": "earrings"
+    },
+    {
+      "name": "Silver Bracelet",
+      "desc": "silver bracelet",
+      "price": "100",
+      "quantity": "50",
+      "category": "bracelets",
+      "path": "silver_bracelet.jpg",
+      "id": 5
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "userId": 2,
+      "products": [
+        {
+          "productId": 1,
+          "quantity": 5
+        }
+      ]
+    }
+  ]
+}

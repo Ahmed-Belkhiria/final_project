@@ -1,0 +1,24 @@
+.productTitle {
+  margin: 20px;
+}
+.productFilterContainer {
+  display: flex;
+  justify-content: space-between;
+}
+.productFilter {
+  margin: 20px;
+}
+.productFilterText {
+  margin: 20px;
+}
+.productFilterSelect {
+  padding: 10px;
+  margin-right: 20px;
+}
+
+.addProductButton {
+  padding: 10px;
+  background-color: white;
+  border: 1px solid grey;
+  cursor: pointer;
+}

@@ -1,0 +1,12 @@
+.productsContainer {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.productsWrapper {
+  margin-top: 20px;
+  padding: 0px 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
